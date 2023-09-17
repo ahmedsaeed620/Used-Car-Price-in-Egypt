@@ -109,5 +109,5 @@ with row12_1:
     st.markdown('And also the effect of transportation Effective in a way that approaches the life of the car , Model, brand, Kilometers')
 
 with row12_2:
-    image_url ='https://www.kaggleusercontent.com/kf/142898563/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..yVTCKUkYgGDekkbZGyWDPg.tcNfAF6SLrHdj1PLUqYJBkvjTCeS4DFT04YIP7K01FwyCyfqVlf6NMQL3XgumfrULWEnp6EEzVsLIxXEO7n_2phBQLcT35SPvGEfqEUADcikzbL9j-JTFMXZDAS2i0pKrsT1ZFyVl8dcGYO78jRlb6FXjrBtq0TvpHkj61o-tkT3pPO3Mbs5Gp-DbwCSMI8Xm88619L-v5tHwYJTT-U5z3o9_utclKq2SPgkh3Gg09p11sD-ULZrP9ndl38ZcPrTkPbvU-tr-qvRAQD_TH57j-1ni9jbIfm2BqtntuG7y3uvbiUq6o-iLuBp523O0Iv_EgJsuMsuH4cY3k__Vc-BuHGhgdJOPLJv0c5ZoJjlOHe0NH1nXIFocvSXFzhmXbOIk9PdmkJphclrig-uQ93fOZv56uuC59E6aOArMxMNnKxjF-ImXAPDKUceb4OLroz2YT1QsLjkWD6UNAhkyqM_8KnF6j8W_jnGD94YW_BKGykeVMCKYuGqxFTAdYTXg_ItmTX0StN9i1lYDOuFSz6wZ4IMGVwks7f8kjn3E4BgBbKGe8sCrmOZpzRQmWaUz4fBWNPTyqwbC5uPBhWlzQb56kVqNwDHnJ7Ss8eAMVy020sbsZ7E1cHSWAWfaj-jvyaF_HXHzDcIlSg_kp51DdgXC_Dyir5qYGloxtdeORrwfzA.SbVR9GMvusLnuOOtXcDvnw/__results___files/__results___95_1.png'
+    image_url = 'https://github.com/ahmedsaeed620/Used-Car-Price-in-Egypt/blob/main/Images/Feature_Importances.png?raw=true'
     st.image(image_url, caption='Important Features', use_column_width=True) 
