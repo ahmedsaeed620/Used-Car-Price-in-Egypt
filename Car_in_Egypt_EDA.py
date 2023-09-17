@@ -15,7 +15,7 @@ with row0_1:
 with row0_2:
     st.text("")
     st.subheader('App by [Ahmed ELSaied](https://www.linkedin.com/in/ahmed-el-saied-75ab56217/)')
-    st.subheader('Prediction Price [Prediction](http://localhost:8502/)')
+    st.subheader('Prediction Price [Prediction](https://predictionpricepy-dbrlyfsbn9pmfjn9jngvma.streamlit.app/)')
 
 row3_spacer1, row3_1, row3_spacer2 = st.columns((.1, 3.2, .1))
 with row3_1:
