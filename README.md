@@ -1,5 +1,4 @@
 # Used-Car-Price-in-Egypt
-  - [Demo](#demo)
   - [Overview](#overview)
     - [Dataset Descrption](#dataset-descrption)
   - [EDA](#EDA)
@@ -9,7 +8,7 @@
   - [Technologies Used](#technologies-used)
 
 
-## Demo
+
 
 ## Overview
 This project aims to predict typical bus costs in Egypt, so that buyers can make an informed purchasing decision using data collected from colorful sources spread across colorful areas in Egypt. We realize that buses are not just a means of transportation, but an expression of our own tastes and needs. The choice may be limited depending on our budget, however, we can take advantage of regular car demand to enjoy the luxury brands we love at lower prices. By examining the available data, we will provide information about the cost of manned buses based on the brand, model, condition and other dependent factors. This will enable buyers to make an informed purchasing decision and choose a vehicle that suits their requirements and budget.
